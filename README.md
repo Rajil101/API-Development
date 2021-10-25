@@ -8,8 +8,16 @@ In these project, I performed on REST client server Development where genrate va
 
 •POST,
 
-•DELETE with exception handleing .Uses different REST Client platform such as "POSTMAN" where I build,test and modify the api.
+•DELETE with exception handleing.
+
+•Uses different REST Client platform such as "POSTMAN" where I build,test and modify the api.
+
+•Created with Express,NodeJs framework.
+
+•Mongoose,Mongodb atlas for Database.
+
+•
 
 •You can also create and learn with these examples
 
-•These was created while shapeai bootcamp.
+*These was created while shapeai bootcamp.
